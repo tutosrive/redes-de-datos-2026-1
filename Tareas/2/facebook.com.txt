@@ -1,0 +1,31 @@
+traceroute to facebook.com (2a03:2880:f102:8a:face:b00c:0:25de), 30 hops max, 80 byte packets
+ 1  2800:484:907a:28e0:200:caff:fe11:2233 (2800:484:907a:28e0:200:caff:fe11:2233)  1.558 ms  1.901 ms  2.253 ms
+ 2  2800:485:0:7b::1 (2800:485:0:7b::1)  14.104 ms  15.981 ms  16.119 ms
+ 3  2800:483:100:194::1 (2800:483:100:194::1)  21.774 ms  21.854 ms  21.975 ms
+ 4  peer-as14080.pr02.bog1.tfbnw.net (2620:0:1cff:dead:beee::b5f)  37.916 ms  31.748 ms  38.912 ms
+ 5  ae20.pr02.bog1.tfbnw.net (2620:0:1cff:dead:beee::b5e)  35.935 ms  31.798 ms  35.895 ms
+ 6  po4001.asw03.bog2.tfbnw.net (2620:0:1cff:dead:beef::92dc)  35.878 ms po4001.asw01.bog2.tfbnw.net (2620:0:1cff:dead:beef::37aa)  57.551 ms po4001.asw04.bog2.tfbnw.net (2620:0:1cff:dead:beef::92e4)  102.937 ms
+ 7  po202.psw01.bog2.tfbnw.net (2620:0:1cff:dead:beef::92ed)  102.869 ms po267.psw03.bog2.tfbnw.net (2620:0:1cff:dead:beef::93e7)  102.762 ms po270.psw02.bog2.tfbnw.net (2620:0:1cff:dead:beef::93d5)  102.738 ms
+ 8  be7.msw1ac.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::13d)  102.628 ms be6.msw1au.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::12d)  102.608 ms be2.msw1ai.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::45)  102.549 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

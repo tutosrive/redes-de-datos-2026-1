@@ -1,0 +1,31 @@
+traceroute to whatsapp.com (2a03:2880:f202:d0:face:b00c:0:167), 30 hops max, 80 byte packets
+ 1  2800:484:907a:28e0:200:caff:fe11:2233 (2800:484:907a:28e0:200:caff:fe11:2233)  1.873 ms  2.166 ms  2.508 ms
+ 2  2800:485:0:7b::1 (2800:485:0:7b::1)  61.841 ms  61.816 ms  68.263 ms
+ 3  2800:483:100:194::1 (2800:483:100:194::1)  26.586 ms  26.560 ms  61.732 ms
+ 4  peer-as14080.pr02.bog1.tfbnw.net (2620:0:1cff:dead:beee::b5f)  72.636 ms  72.617 ms  72.599 ms
+ 5  ae20.pr02.bog1.tfbnw.net (2620:0:1cff:dead:beee::b5e)  72.577 ms  72.493 ms  72.542 ms
+ 6  po4001.asw02.bog2.tfbnw.net (2620:0:1cff:dead:beef::37dc)  72.517 ms  48.138 ms po4001.asw03.bog2.tfbnw.net (2620:0:1cff:dead:beef::92dc)  61.050 ms
+ 7  po267.psw02.bog2.tfbnw.net (2620:0:1cff:dead:beef::93cf)  60.983 ms po264.psw03.bog2.tfbnw.net (2620:0:1cff:dead:beef::93e1)  60.875 ms po262.psw02.bog2.tfbnw.net (2620:0:1cff:dead:beef::93c5)  60.848 ms
+ 8  be6.msw1at.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::12b)  60.783 ms be1.msw1ak.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::15)  60.764 ms be4.msw1ad.01.bog2.tfbnw.net (2a03:2880:f0aa:ffff::a3)  60.703 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
