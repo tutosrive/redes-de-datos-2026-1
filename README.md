@@ -7,7 +7,7 @@
 ---
 
 > 📺 Muchas sesiones grabadas y material audiovisual están disponibles en la playlist oficial del curso:
-> <a href="https://www.youtube.com/playlist?list=PLbrkyIFCPjn0mzBq0vLoHmKp-9KAFLr7v"><img width="300" alt="playlist redes-de-datos" src="https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/others/nosql1.png" /></a>
+> <a href="https://www.youtube.com/playlist?list=PLbrkyIFCPjn0mzBq0vLoHmKp-9KAFLr7v"><img width="300" alt="playlist redes-de-datos" src="https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/others/v1.png" /></a>
 
 ---
 
