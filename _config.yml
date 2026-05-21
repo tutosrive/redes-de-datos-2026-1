@@ -1,0 +1,10 @@
+theme: jekyll-theme-hacker
+
+title: "Redes De Datos | Redes UCALDAS | UCALDAS"
+description: "Contenidos sobre el curso de 'Redes De Datos' de la Universidad De Caldas, simulaciones, teoría y demás ..."
+author: tutosrive
+
+google_analytics: "G-JNLZF5SXSP"
+
+icon: "🌐"
+image: "https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/others/nosql1.png"

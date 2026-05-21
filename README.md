@@ -29,12 +29,12 @@ Este repositorio sirve como portafolio académico y recurso de consulta sobre **
 
 La organización sigue las carpetas reales observadas en el proyecto:
 
-- 📁 **[`Notas/`](./Notas/)**: Apuntes, resúmenes de clase y notas sobre conceptos principales de redes.
-- 📁 **[`Otros/`](./Otros/)**: Material complementario, enlaces extra, recursos variados o archivos misceláneos útiles para el curso.
-- 📁 **[`Packet-Tracer/`](./Packet-Tracer/)**: Archivos y actividades prácticas diseñadas para **Cisco Packet Tracer** (simulaciones de red, topologías, ejercicios por simulador).
-- 📁 **[`Practicas/`](./Practicas/)**: Prácticas guiadas, ejercicios activos y propuestas de laboratorio para fortalecer los contenidos del curso.
-- 📁 **[`Tareas/`](./Tareas/)**: Tareas asignadas, actividades evaluativas y entregables del curso.
-- 📁 **[`teoria/`](./teoria/)**: Documentos teóricos, presentaciones y recursos para el estudio conceptual más profundo.
+- 📁 **[`Notas/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/Notas/)**: Apuntes, resúmenes de clase y notas sobre conceptos principales de redes.
+- 📁 **[`Otros/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/Otros/)**: Material complementario, enlaces extra, recursos variados o archivos misceláneos útiles para el curso.
+- 📁 **[`Packet-Tracer/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/Packet-Tracer/)**: Archivos y actividades prácticas diseñadas para **Cisco Packet Tracer** (simulaciones de red, topologías, ejercicios por simulador).
+- 📁 **[`Practicas/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/Practicas/)**: Prácticas guiadas, ejercicios activos y propuestas de laboratorio para fortalecer los contenidos del curso.
+- 📁 **[`Tareas/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/Tareas/)**: Tareas asignadas, actividades evaluativas y entregables del curso.
+- 📁 **[`teoria/`](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/teoria/)**: Documentos teóricos, presentaciones y recursos para el estudio conceptual más profundo.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -68,4 +68,4 @@ Este repositorio utiliza y recomienda:
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para detalles completos.
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/tutosrive/redes-de-datos-2026-1/tree/main/LICENSE) para detalles completos.
